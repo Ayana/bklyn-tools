@@ -1,6 +1,6 @@
 # my-life-tools
 
-Platform for useful tools in my life.
+Dev of useful tools in my life.
 
 ## Idea
 - [ ] `Tip calculator`
@@ -9,4 +9,5 @@ Platform for useful tools in my life.
 - [ ] `Shorten URL generator`
 - [ ] `Image finder`
 - [ ] `Video finder`
+- [ ] `Time difference checker`
 - [ ] `File Renamer`
